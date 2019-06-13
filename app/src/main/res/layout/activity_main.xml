@@ -28,7 +28,7 @@
             android:layout_alignParentRight="true"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="开发设计：徐亚峰 "
+            android:text="开发设计：徐亚峰"
             android:textColor="#ffffff"
             android:textSize="15sp"/>
     </RelativeLayout>
